@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "name": "Go to the sotre"
+    },
+    {
+      "id": 1,
+      "name": "Play some music"
+    },
+    {
+      "id": 2,
+      "name": "Practice some coding"
+    },
+    {
+      "name": "buy some milk",
+      "id": 3
+    },
+    {
+      "name": "Feed the dogs",
+      "id": 4
+    },
+    {
+      "name": "Buy some records",
+      "id": 5
+    },
+    {
+      "name": "Talk with friends",
+      "id": 6
+    }
+  ]
+}
